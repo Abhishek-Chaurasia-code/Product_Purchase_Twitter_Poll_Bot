@@ -1,4 +1,6 @@
-              Project- Myntra Product Twitter poll bot
+
+Project- Myntra Product Twitter poll bot
+
 ->This project basically uses automation through puppeteer and fetches Product Name, Price and Link to buy that product from Myntra website. Product category is entered by user eg- trousers for men, jackets for men etc.
 
 
