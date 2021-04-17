@@ -4,7 +4,7 @@ Project- Myntra Product Twitter poll bot
 ->This project basically uses automation through puppeteer and fetches Product Nmae, Price and Link to buy that 
 product from Myntra website. Product category is entered by user eg- trousers for men, jackets for men etc.
 
-->Main code is present in activity folder.
+->Main code is present in mainmyntraProduct.
 -> mainmyntraProductPoll-: It uses async await to fetch links of products through Myntra.com and these links are send to 
                            the function 'pollonTwitter' which bsically tells the user about product name,price and also gives 
                            product link. It asks user does he/she want to buy the product and choices are Yes,No and Maybe.
